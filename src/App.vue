@@ -5,6 +5,7 @@ import ExcerThree from './views/Day1/ExcerThree.vue'
 import ExcerFour from './views/Day1/ExcerFour.vue'
 import ExcerFive from './views/Day1/ExcerFive.vue'
 import ExcerSix from './views/Day1/ExcerSix.vue'
+import ExcerSeven from './views/Day1/ExcerSeven.vue'
 </script>
 
 <template>
@@ -15,6 +16,7 @@ import ExcerSix from './views/Day1/ExcerSix.vue'
     <ExcerFour/>
     <ExcerFive/>
     <ExcerSix/>
+    <ExcerSeven/>
   </div>
 </template>
 <style scoped></style>

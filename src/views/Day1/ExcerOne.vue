@@ -9,7 +9,7 @@ const data = ref({
   quantity: 10,
   price: 10000,
   discount: 0.2,
-  inStock: false,
+  inStock: true,
   classObject: {
     'bg-gray-100': true,
     'bg-red-500': false,
